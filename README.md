@@ -64,6 +64,7 @@ Figma
 '''
 ## TECHNICAL EVENTS:
 '''
+
     <div style="width: 360px; height: 800px; position: relative; background: #E00B0B">
     <div style="width: 360px; height: 696px; left: 0px; top: 46px; position: absolute"><span style="color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">         <br/>        <br/>       EVENTS<br/><br/>TECHNICAL</span><span style="color: white; font-size: 70px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">:<br/></span><span style="color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word"><br/>   PAPER-PRESENTATION<br/><br/>   HACKATHON<br/><br/>   POSTER MAKING<br/><br/>   BOARD-DESIGN</span></div>
     <img style="width: 300px; height: 46.61px; left: 30px; top: 18px; position: absolute" src="https://via.placeholder.com/300x47" />
@@ -76,6 +77,7 @@ Figma
 
 ## NON-TECHNICAL:
 '''
+
         <div style="width: 360px; height: 800px; position: relative; background: #EF1515">
         <div style="width: 351px; height: 750px; left: -5px; top: 28px; position: absolute; color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">   <br/><br/>           EVENTS<br/><br/><br/>NON-TECHNICAL:<br/><br/>   CONNECTIONS<br/><br/>   IPL QUIZ<br/><br/>   PS4 AND PS5<br/><br/>   YELLOWTAPE</div>
         <img style="width: 300px; height: 46.61px; left: 30px; top: 16px; position: absolute" src="https://via.placeholder.com/300x47" />
@@ -87,6 +89,7 @@ Figma
 '''
 ## FINAL-PAGE:
 '''
+
     <div style="width: 360px; height: 800px; padding-top: 17px; background: #E81313; flex-direction: column; justify-content: flex-end; align-items: center; gap: 53.39px; display: inline-flex">
     <img style="width: 300px; height: 46.61px" src="https://via.placeholder.com/300x47" />
     <div style="width: 360px; height: 683px; color: white; font-size: 36px; font-family: Irish Grover; font-weight: 400; word-wrap: break-word">       REGISTER <br/> FOR THE EVENTS AND ENJOY.<br/><br/>COME IN NEAT AND PROPER DRESS CODE<br/><br/><br/><br/><br/>       FOR MORE    <br/>    INFROMATION <br/><br/>       CONTACT  <br/>     8574397590</div>
